@@ -1,0 +1,108 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\eco-jpg]
+@="Convert to JPG"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-jpg]
+"Icon"="\"C:\\Program Files\\ECO\\png.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-jpg\command]
+@="\"C:\\Program Files\\ECO\\jpg.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-png]
+@="Convert to PNG"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-png]
+"Icon"="\"C:\\Program Files\\ECO\\png.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-png\command]
+@="\"C:\\Program Files\\ECO\\png.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-gif]
+@="Convert to GIF"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-gif]
+"Icon"="\"C:\\Program Files\\ECO\\png.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-gif\command]
+@="\"C:\\Program Files\\ECO\\gif.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-ico]
+@="Convert to ICO"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-ico]
+"Icon"="\"C:\\Program Files\\ECO\\ico.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-ico\command]
+@="\"C:\\Program Files\\ECO\\ico.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mp4]
+@="Convert to MP4"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mp4]
+"Icon"="\"C:\\Program Files\\ECO\\mp4.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mp4\command]
+@="\"C:\\Program Files\\ECO\\mp4.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-avi]
+@="Convert to AVI"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-avi]
+"Icon"="\"C:\\Program Files\\ECO\\mp4.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-avi\command]
+@="\"C:\\Program Files\\ECO\\avi.exe\" \"%1\""
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mov]
+@="Convert to MOV"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mov]
+"Icon"="\"C:\\Program Files\\ECO\\mp3.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mov\command]
+@="\"C:\\Program Files\\ECO\\mov.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-ogg]
+@="Convert to OGG"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-ogg]
+"Icon"="\"C:\\Program Files\\ECO\\mp3.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-ogg\command]
+@="\"C:\\Program Files\\ECO\\ogg.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mp3]
+@="Convert to MP3"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mp3]
+"Icon"="\"C:\\Program Files\\ECO\\mp3.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-mp3\command]
+@="\"C:\\Program Files\\ECO\\mp3.exe\" \"%1\""
+
+
+
+[HKEY_CLASSES_ROOT\*\shell\eco-wav]
+@="Convert to WAV"
+
+[HKEY_CLASSES_ROOT\*\shell\eco-wav]
+"Icon"="\"C:\\Program Files\\ECO\\wav.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\eco-wav\command]
+@="\"C:\\Program Files\\ECO\\wav.exe\" \"%1\""
